@@ -18,7 +18,7 @@ class Members (
 
         var brdt: Int? = null,
 
-        var phoneNum: Int? = null,
+        var phoneNum: String? = null,
 
         var gendCd: Char? = null
 )

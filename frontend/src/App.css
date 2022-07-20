@@ -18,7 +18,8 @@
 }
 
 .loginBtn {
-  width: 11%;
+  width: 35%;
+  height: 35%;
   background-color: black;
   color: white;
   border-radius: 10px;
@@ -31,4 +32,24 @@
 a {
   font-size: 11px;
   text-decoration: none;
+}
+
+.linkBtn {
+  font-size: 15%;
+  background-color: white;
+  color: black;
+}
+
+.home {
+  font-size: 30px;
+  color: black;
+  margin-right: 90%;
+}
+
+.content{
+  margin-top: 5%;
+  margin-left: 34%;
+  width: 30%;
+  height: 350px;
+  border: 1px solid black;
 }
